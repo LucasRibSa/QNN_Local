@@ -1,0 +1,5 @@
+qiskit==1.2.4
+qiskit-machine-learning==0.8.0
+numpy>=1.23
+scikit-learn>=1.2
+matplotlib>=3.7
